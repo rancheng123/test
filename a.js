@@ -14,5 +14,6 @@ var dev = '6'
 var dev = '7'
 var dev = '8'
 var dev = '9'
+var dev = '10'
 
 //sh ../../businessDir/operationShell/merge.sh
