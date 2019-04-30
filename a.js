@@ -7,3 +7,5 @@ var bai =' 6'
 var bai = '7'
 var bai = '8'
 var bai =' 9'
+
+var cai = '1'
