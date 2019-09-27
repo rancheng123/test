@@ -1,2 +1,1 @@
-var travel = 'London';
-var b = 'Paris'
+var a = 1;
